@@ -2,7 +2,7 @@
 ## Front matter
 lang: ru-RU
 title: Лабораторной работы №1
-subtitle: Дисциплина "Операционные системы"
+subtitle: Дисциплина: "Операционные системы"
 author:
   - Обрезкова А.В.
 institute:
@@ -43,7 +43,7 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-
+![](./image/kulyabov.jpg)
 
 :::
 ::::::::::::::
